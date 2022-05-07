@@ -10,6 +10,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*stylings for header and child elements*/ 
 header {
 
     padding: 20px;
@@ -52,12 +53,14 @@ header nav a {
     text-decoration: none;
 }
 
+/*stylings for p elements left general for easier future changes*/
 p {
 
     font-size: 16px;
     font-weight: bold;
 }
 
+/*styling for home page image, does not affect any other content*/
 .hero {
 
     height: 800px;
@@ -68,6 +71,7 @@ p {
     background-position: center;
 }
 
+/*universal classes for styling img and text position in main page articles*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -142,6 +146,7 @@ p {
     color: #ffffff;
 }
 
+/*style and positioning of footer copyright and branding*/
 .footer {
     padding: 30px;
     clear: both;
