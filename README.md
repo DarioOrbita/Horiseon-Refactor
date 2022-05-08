@@ -8,7 +8,7 @@ The changes in this refactor were made in the spirit of making the codebase and 
 
 ## Installation
 
-The repository for this codebase can be found at https://github.com/DarioOrbita/Horiseon-Refactor as well as the fully deployed webpage at (link).
+The repository for this codebase can be found at https://github.com/DarioOrbita/Horiseon-Refactor as well as the deployed webpage at (https://darioorbita.github.io/Horiseon-Refactor/).
 
 ## Usage
 
